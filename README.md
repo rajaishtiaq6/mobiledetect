@@ -1,5 +1,9 @@
+
 # Mobile Detect
 This plugin is for the developers, you can use directives in your blade templates. 
+# Overview
+This is a plugin for Botble CMS so you have to purchase Botble CMS first to use this plugin. Purchase it here: [Botble CMS](https://codecanyon.net/item/botble-cms-php-platform-based-on-laravel-framework/16928182)
+
 
 ## Requirements
 
