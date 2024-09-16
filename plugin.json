@@ -4,7 +4,7 @@
     "namespace": "Shaqi\\MobileDetect\\",
     "provider": "Shaqi\\MobileDetect\\Providers\\MobileDetectServiceProvider",
     "author": "Ishtiaq Ahmed",
-    "url": "https://github.com/rajaishtiaq6",
+    "url": "https://github.com/rajaishtiaq6/mobiledetect",
     "version": "1.0.0",
     "description": "Excludes tablets, such as iPad, from being detected as mobile",
     "minimum_core_version": "7.0.0"
